@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdf3b826-1f04-4e42-a43a-2434a56e30d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/edu/laura/estudosjava/MyClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/edu/laura/estudosjava/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/edu/laura/estudosjava/TiposVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiposVariaveis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
   </component>
   <component name="RunManager">
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.edu.laura.estudosjava.MyClass" />
+      <option name="MAIN_CLASS_NAME" value="MyClass" />
       <module name="bancoPAN" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,6 +76,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
