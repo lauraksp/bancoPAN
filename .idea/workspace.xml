@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdf3b826-1f04-4e42-a43a-2434a56e30d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Operadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadorTernario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresRelacionais.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +42,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Operadores">
+  <component name="RunManager" selected="Application.OperadoresRelacionais">
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyClass" />
+      <module name="bancoPAN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadorTernario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadorTernario" />
       <module name="bancoPAN" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,8 +64,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperadoresRelacionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadoresRelacionais" />
+      <module name="bancoPAN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperadoresRelacionais" />
+        <item itemvalue="Application.OperadorTernario" />
         <item itemvalue="Application.Operadores" />
         <item itemvalue="Application.MyClass" />
       </list>
